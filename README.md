@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a passionate Software & Fullstack Web Develope
 
 - 💻 Software Development: I enjoy building web applications and exploring new technologies.
 - 📚 Learning: Lifelong learning is one of my core values. I'm always eager to acquire new skills and knowledge.
-- 🌟 Open Source: I believe in the power of open-source collaboration and actively contribute to [mention any open-source projects you're involved in].
 
 ## My Projects
 
